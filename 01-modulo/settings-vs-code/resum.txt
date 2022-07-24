@@ -1,0 +1,5 @@
+Toda a estrtura criada serão em pastas e arquivos
+Posso ficar com várias abas abertas
+Temos váris teclas de atalho para uso do Vs Code
+Observamos a saída dos dados no output
+E posso configurar da forma qeu for melhor para executar meu código.
