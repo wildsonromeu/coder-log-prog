@@ -8,7 +8,7 @@
 }
 
 {
-    console.log("Segundo blcco - Números Pares");
+    console.log("Segundo bloco - Números Pares");
     console.log("2");
     console.log("4");
     console.log("6");
