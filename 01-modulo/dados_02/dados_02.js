@@ -8,4 +8,3 @@ let precoComDesconto = preco * (1-desconto);
 
 console.log("Desconto = " + preco * desconto);
 console.log("Valor com desconto aplicado = " + precoComDesconto);
-
