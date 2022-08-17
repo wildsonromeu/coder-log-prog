@@ -7,4 +7,10 @@ let desconto = 0.4;
 let precoComDesconto = preco * (1-desconto);
 
 console.log("Desconto = " + preco * desconto);
-console.log("Valor com desconto aplicado = " + precoComDesconto);
+
+// Concatenação de variáveis
+
+let nome = "Caderno"; //Varável tipo String
+let categoria = "Papelaria";
+console.log("Produto = " + nome + " " //Fazendo Concatenação de variáveis
+                         + "- Categoria: " + categoria);
