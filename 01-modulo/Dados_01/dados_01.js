@@ -7,9 +7,9 @@ var preco = 6.4;
 var imposto = 1.5;
 var precoFinal = preco + imposto;
 
-console.log(nome);
-console.log(quantidade);
-console.log(preco);
-console.log(imposto);
-console.log("Preço Final = " + precoFinal);
+console.log("Objeto: "+ nome);
+console.log("Quantidade: " + quantidade);
+console.log("Preço de Custo: " + preco);
+console.log("Valor do Imposto: " + imposto);
+console.log("Preço Final (Preço de Custo + Valor do Imposto) = " + precoFinal);
 
