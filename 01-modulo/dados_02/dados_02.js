@@ -12,6 +12,4 @@ console.log("Desconto = " + preco * desconto);
 
 let nome = "Caderno"; //Varável tipo String
 let categoria = "Papelaria";
-console.log("Produto = " + nome + " " //Fazendo Concatenação de variáveis
-                         + "- Categoria: " + categoria
-                         + " - Preço= " + precoComDesconto);
+console.log(`Produto = ${nome} - Categoria: ${ /*Fazendo Concatenação de variáveis*/categoria} - Preço= ${precoComDesconto}`);
